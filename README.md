@@ -29,7 +29,7 @@ I made a rather exhaustive work from the last five years to collect some of the 
 * **Molecular visualization & structural bioinformatics**: PyMOL, Chimera, ElNémo, AutoDock.
 * **Molecular sequence analysis**: PatMatch, SignalP 6.0, DeepTMHMM, dbCAN3, EffectorP, T-REKS, antiSMASH, InterProScan, Pfam.
 * **Genomic data exploration**: IGV.
-* **Molecular evolution and phylogenetics**: MEGA, FigTree, jModelTest, PhyML, BEAST, MrBayes, TempEst, Mesquite, Datamonkey, SPREAD, RDP, TreeMap, PAUP*.
+* **Molecular evolution and phylogenetics**: MEGA, FigTree, jModelTest, PhyML, BEAST, BEAUTi, Tracer, MrBayes, TempEst, Mesquite, Datamonkey, SPREAD, RDP, TreeMap, PAUP*.
 * **Others**: Simulink, NetLogo, Blender. 
 
 # How to reach me
