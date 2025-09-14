@@ -35,6 +35,10 @@ I made a rather exhaustive work from the last five years to collect some of the 
 # How to reach me
 If you want to contact me, you can send me an email to torresgarciaeric@gmail.com
 
+# Outreach and education
+I am a humble student with much still to learn, but I have always loved teaching and sharing knowledge. In collaboration with the university association Integradxs Biotecnología at the National University of Moreno (Argentina), I prepared a free workshop for Biotechnology students on using Chimera for protein visualization and engineering. The session was recorded and is available to watch on YouTube [[Click here to watch (in Spanish)]](https://www.youtube.com/watch?v=cReQ7QjbXNo). 
+
+
 <!--
 **er-biotecazu/er-biotecazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
