@@ -26,7 +26,7 @@ I made a rather exhaustive work from the last five years to collect some of the 
 * **Sequencing analysis & alignment**: BLAST, Clustal, MAFFT, Muscle, BWA, SAMtools. 
 * **Genomics NGS tools**: STAR, FastQC, fastp, Trimmomatics, DESeq2, GATK, HTSeq, Bowtie2.
 * **Systems Biology**: Cytoscape, STRING, ATTED-II, DAVID, MetaboAnalyst, ShinyGO, REViGO, ClusterProfiler.
-* **Molecular visualization & structural bioinformatics**: PyMOL, Chimera, ElNémo, AutoDock.
+* **Molecular visualization & structural bioinformatics**: PyMOL, Chimera, ElNémo, AutoDock, CABS-flex.
 * **Molecular sequence analysis**: PatMatch, SignalP 6.0, DeepTMHMM, dbCAN3, EffectorP, T-REKS, antiSMASH, InterProScan, Pfam.
 * **Genomic data exploration**: IGV.
 * **Molecular evolution and phylogenetics**: MEGA, FigTree, jModelTest, PhyML, BEAST, BEAUTi, Tracer, MrBayes, TempEst, Mesquite, Datamonkey, SPREAD, RDP, TreeMap, PAUP*.
