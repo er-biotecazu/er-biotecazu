@@ -4,7 +4,7 @@
    <b>Hello, I'm Eric!</b><br>
   I am a biotechnologist and (almost) a bioinformatician. I am Spanish and lived for most of my life in the small city of Azuqueca de Henares, not too far away from Madrid. Currently, I am living in Copenhagen, Denmark, where I am studying my MSc in Bioinformatics at DTU (among other things). 
 
-  I am passionate of learning new things in general: from biology and bioinformatics to history, phylosophy, geography or sociology. I love reading and I always try to read something everyday. I also love cycling (luckily I live in the land of bikes 😜), hiking, cooking new recipes, learning new languages and travelling to new places. I find satisfaction in sharing knowledge with others.
+  I am passionate of learning new things in general: from biology and bioinformatics to history, phylosophy, geography or sociology. I love reading and I always try to read something everyday. I also love cycling (luckily I live in the land of bikes 😜), hiking, cooking new recipes, learning new languages and travelling to new places. I find satisfaction in sharing knowledge with others. This led me to create more than 150 articles on Spanish Wikipedia. 
 </p>
 
 
